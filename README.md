@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **bakhtiyorjon.m@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bakhtiyorjon-mirzajonov-64374918a/](https://www.linkedin.com/in/bakhtiyorjon-mirzajonov-64374918a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mirzo/](https://www.linkedin.com/in/mirzo/)
 
 - ⚡ Fun fact **Have high EQ (Emotional Quotient/Intelligence)**
 
