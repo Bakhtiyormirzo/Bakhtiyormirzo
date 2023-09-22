@@ -4,17 +4,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 🔭 I’m currently working on **100-hours project**
+- 🔭 I’m currently working on **Virtual Deck of Cards App**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **iOS Development**
 
-- 👯 I’m looking to collaborate on **Full Stack Development (MERN Stack)**
+- 👯 I’m looking to collaborate on **iOS Application projects**
 
 - 👨‍💻 All of my projects are available at [https://twitter.com/bakhtiyormirzo](https://twitter.com/bakhtiyormirzo)
 
 - 📝 I sometimes write on Twitter [https://twitter.com/johnmrzo](https://twitter.com/johnmrzo)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **iOS Development**
 
 - 📫 How to reach me **bakhtiyorjon.m@gmail.com**
 
