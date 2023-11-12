@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm John (Bakhtiyorjon) Mirzajonov</h1>
 <h3 align="center">Creative, detail-oriented Software Engineer with a strong foundation in Full-Stack Software Engineering. I am excited to continue learning and growing in my career, and am eager to take on new challenges and responsibilities.</h3>
 
-- 🔭 I’m currently working on **CardsMate iOS App**
+- 🔭 I’m currently working on **DeckMate iOS App**
 
 - 🌱 I’m currently learning **iOS Mobile Application Development**
 
